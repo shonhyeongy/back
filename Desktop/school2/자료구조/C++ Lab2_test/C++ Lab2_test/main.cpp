@@ -1,4 +1,4 @@
-//
+∑//
 //  main.cpp
 //  C++ Lab2_test
 //
